@@ -1,7 +1,7 @@
 Famo.us Guides
 ==============
 
-These are simply copies of the materials availale in our [online guides documentation][famous-guides].
+These are simply copies of the materials available in our [online guides documentation][famous-guides].
 
 
 
